@@ -1,2 +1,15 @@
-# Machine-Learning
-Data Science and Machine Learning from scratch
+| Date             | Topic                                             | Facilitators                   | Slides/Code                                                                                        |
+|------------------|---------------------------------------------------|--------------------------------|----------------------------------------------------------------------------------------------------|
+| 16th Feb, 2019   | Introduction to Python                            | Benjamin Akera                 | [code](https://github.com/Mujerry/air_mentorship/tree/master/01-Python-Crash-Course)               |
+| 23rd Feb, 2019   | Introduction to Numpy                             | Jeremy Tusubira                | [code](https://github.com/Mujerry/air_mentorship/tree/master/02-Python-for-Data-Analysis-NumPy)    |
+| 23rd Feb, 2019   | Intro to Pandas                                   | Claire Babirye                 | [code](https://github.com/Mujerry/air_mentorship/tree/master/03-Python-for-Data-Analysis-Pandas)   |
+| 2nd March, 2019  | Python for Data Visualization                     | Paul Green                     | [code](https://github.com/Mujerry/air_mentorship/tree/master/04-Data-Visualization)                |
+| 16th March, 2019 | Introduction to Machine Learning                  | Benjamin Akera, Claire Babirye | [code](https://github.com/Mujerry/air_mentorship/tree/master/05-Machine-Learning)                  |
+| 23rd March, 2019 | Linear Regression                                 | Jeremy Tusubira                | [code](https://github.com/Mujerry/air_mentorship/tree/master/05-Machine-Learning)                  |
+| 30th March, 2019 | Logistic Regression                               | Jeremy Tusubira                | [code](https://github.com/Mujerry/air_mentorship/tree/master/06-Logistic-Regression)               |
+| 6th April, 2019  | K-Nearest Neighbors                               | Dina Machuve                   | [code](https://github.com/Mujerry/air_mentorship/tree/master/KNN_lecture_1)                        |
+| 13th April, 2019 | Decision Trees and Random Forests                 | Claire Babirye, Benjamin Akera | [code](https://github.com/Mujerry/air_mentorship/tree/master/07-Decision-Trees-and-Random-Forests) |
+| 13th April,2019  | Support Vector Machines                           | Benjamin Akera                 | [code](https://github.com/Mujerry/air_mentorship/tree/master/08-Support-Vector-Machines)           |
+| 20th April, 2019 | Fundamentals of Neural Networks and Deep Learning | Ernest Mwebaze                 |                                                                                                    |
+| 27th April, 2019 | Practical Neural Networks in Numpy                | Benjamin Akera                 | [code](https://github.com/Mujerry/air_mentorship/tree/master/09-Neural-Nets)                       |
+| 4th May, 2019 | Introduction to Convolutional Neural Networks                | Dominiquo Santistevan                 | [slides](https://github.com/airmentorship/air_mentorship_program/blob/master/10-Intro-to-ConvNets/Data_science_class_Spring_2019.pdf)                       |
